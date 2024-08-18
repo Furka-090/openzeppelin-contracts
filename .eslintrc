@@ -14,7 +14,7 @@
     "artifacts": "readonly",
     "contract": "readonly",
     "web3": "readonly",
-    "extendEnvironment": "readonly",
+    "extendEnvironment": "readonl,
     "expect": "readonly",
   }
 }
